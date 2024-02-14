@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>5-Star Item: Big Ball</title>
+<style>
+    .big-ball {
+        width: 100px;
+        height: 100px;
+        background-color: #ffdb58; /* Gold color */
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 24px;
+        font-weight: bold;
+        color: #ffffff; /* White color */
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Text shadow */
+    }
+</style>
+</head>
+<body>
+<div class="big-ball">5★</div>
+</body>
+</html>
